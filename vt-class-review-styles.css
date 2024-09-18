@@ -1,7 +1,9 @@
 /* Virginia Tech Class Review Styles */
 
 body {
+  @font-face{  
     font-family: 'Comic Sans MS', serif;
+    src:url("comic-sans-ms/comici.ttf");
     background-color: #f5e5e5;
     color: #861F41;
     line-height: 1.6;
